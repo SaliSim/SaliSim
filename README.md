@@ -1,4 +1,5 @@
 - 👋 Hi, I’m  Sali Simiyu
+- I'm currently checking out Android Dev
 - 👀 I’m interested in Devops/SRE and Cloud
 - 🌱 I’m currently learning Google cloud skills SRE/DEVOPS ENGINEER 
 - 💞️ I’m looking to collaborate on K8s, Terraform, Automations projects
